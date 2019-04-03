@@ -10,7 +10,7 @@ Net
 
 - Open Visual Studio 2015 
 
-- Press Ctrl + O in your keyboard or klik files menu and klik open projects - Choose project file (File Extension .sln and .vbproj) - Press Ctrl +Alt + S in your keyboard for open server explorer 
+- Press Ctrl + O in your keyboard or click files menu and click open projects - Choose project file (File Extension .sln and .vbproj) - Press Ctrl +Alt + S in your keyboard for open server explorer 
 
 - Press F5 for run test your project, for stopping running press Shift + F5 - You wanna build to exe, please setting dashboard file by right click mouse and then choose properties 
 
